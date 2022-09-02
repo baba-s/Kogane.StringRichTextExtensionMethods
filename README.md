@@ -1,5 +1,9 @@
 # Kogane String Rich Text Extension Methods
 
+string 型にリッチテキストを適用できる拡張メソッド
+
+## 使用例
+
 ```csharp
 using Kogane;
 using UnityEngine;
@@ -37,3 +41,5 @@ public class Example : MonoBehaviour
     }
 }
 ```
+
+![2022-09-02_202738](https://user-images.githubusercontent.com/6134875/188130295-b45f813c-a65f-4a69-acf5-4bf9b3e40110.png)
